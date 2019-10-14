@@ -4,7 +4,8 @@ email: 3242998842@qq.com
 # description: > # this means to ignore newlines until "show_exerpts:"
 # desc
 # show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /PersonalWebsite
+
+baseurl: /Fully-l.github.io
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
