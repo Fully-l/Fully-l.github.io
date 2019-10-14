@@ -1,9 +1,9 @@
 title: Default style
 author: Fully-l
 email: 3242998842@qq.com
-description: > # this means to ignore newlines until "show_exerpts:"
-desc
-show_excerpts: true # set to true to show excerpts on the homepage
+# description: > # this means to ignore newlines until "show_exerpts:"
+# desc
+# show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /PersonalWebsite
 
 # Minima date format
